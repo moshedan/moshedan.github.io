@@ -1,0 +1,9 @@
+Origin: Moshed's Repo
+Label: Moshed's Repo
+Suite: stable
+Version: 1.0
+Codename: Moshed
+Architectures: iphoneos-arm
+Components: main
+Description: Moshed's Repo
+MD5Sum:
