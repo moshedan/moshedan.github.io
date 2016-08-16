@@ -3,7 +3,7 @@ Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: Moshed <moshedancykier@gmail.com>
 Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
-Filename: debs//azlyrics_2.1.1.deb
+Filename: debs/azlyrics_2.1.1.deb
 Size: 2730
 MD5sum: ef0d7d3883628de4b8e53af971f10ca1
 SHA1: 26957902d0321e287955e66ce429cd7b160afe22
