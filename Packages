@@ -1,5 +1,6 @@
 Package: com.moshed.lyrics
-Version: 4.0.0
+Name: lyrics
+Version: 3.0.1
 Section: Addons
 Maintainer:
 Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
