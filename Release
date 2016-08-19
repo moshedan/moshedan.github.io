@@ -1,9 +1,9 @@
 Origin: moshed's Repo
-Label: just some stuff
+Label: moshed's repo
 Suite: stable
 Version: 1.0
-Codename: Moshed
+Codename: moshed
 Architectures: iphoneos-arm
 Components: main
-Description: test
+Description: just some stuff
 MD5Sum:

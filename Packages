@@ -2,7 +2,7 @@ Package: com.moshed.lyrics
 Name: lyrics
 Version: 3.0.1
 Section: Addons
-Maintainer:
+Maintainer: moshed <moshedancykier@gmail.com>
 Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
 Architecture: iphoneos-arm
 Filename: .//debs/com.moshed.lyrics_3.0.1.deb
