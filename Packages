@@ -1,13 +1,13 @@
 Package: com.moshed.lyrics
-Version: 3.0.2
+Version: 3.0.1
 Section: Addons
 Maintainer: 
 Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
 Conflicts: com.moshed.azlyrics
 Architecture: iphoneos-arm
-Filename: .///debs/com.moshed.lyrics_3.0.2.deb
-Size: 3224
-MD5sum: 89c414a1ea803d1003d8f9b71900f16f
+Filename: .///debs/com.moshed.lyrics_3.0.1.deb
+Size: 2454
+MD5sum: 452e5bb303c5e353f1dea82a73ffe795
 Description: Fetches lyrics and displays them in the Notification Center
 Name: lyrics
 Author: moshed <moshedancykier@gmail.com>
