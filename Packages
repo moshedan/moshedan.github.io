@@ -15,7 +15,7 @@ Depiction: http://carlyd95.github.io/repo/depics/dailytext.html
 Package: com.moshed.onips
 Version: 2.0.0
 Section: App Addons (OpenNotifier)
-Maintainer:
+Maintainer: moshed <moshedancykier@gmail.com>
 Depends: com.n00neimp0rtant.opennotifier
 Architecture: iphoneos-arm
 Filename: .//debs/com.moshed.onips_2.0.0.deb
@@ -29,7 +29,7 @@ Depiction:
 Package: com.moshed.lyrics
 Version: 3.0.1
 Section: Addons
-Maintainer:
+Maintainer: moshed <moshedancykier@gmail.com>
 Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
 Architecture: iphoneos-arm
 Filename: .//debs/com.moshed.lyrics_3.0.1.deb
