@@ -1,17 +1,3 @@
-Package: com.carlyd95.dailytextscript
-Version: 2.5-4
-Section: JW
-Maintainer: carlyd95 <dcarltondunlap@me.com>
-Depends: lynx, com.innoying.sbutils, gawk
-Architecture: iphoneos-arm
-Filename: .//debs/com.carlyd95.dailytextscript_2.5-4_iphoneos-arm.deb
-Size: 1832
-MD5sum: 8eaed7a28d5cfc0fab273eada38465ce
-Description: Awesome script that pulls daily text from http://wol.jw.org/en/ each day at 5:30 AM and saves it.  The text can be viewed at any time running by "dailytext -alert" in terminal or if you add "dailytext -alert" as an event in activator.
-Name: Daily Text Script
-Author: carlyd95 & moshed <dcarltondunlap@me.com>
-Depiction: http://carlyd95.github.io/repo/depics/dailytext.html
-
 Package: com.moshed.onips
 Version: 2.0.0
 Section: App Addons (OpenNotifier)
@@ -25,6 +11,20 @@ Description: OpenNotifier Flat glyphs icon pack (simple)
 Name: OpenNotifier Flat Icon Pack (Simple)
 Author: moshed <moshedancykier@gmail.com>
 Depiction:
+
+Package: com.carlyd95.dailytextscript
+Version: 2.5-4
+Section: JW
+Maintainer: carlyd95 <dcarltondunlap@me.com>
+Depends: lynx, com.innoying.sbutils, gawk
+Architecture: iphoneos-arm
+Filename: .//debs/com.carlyd95.dailytextscript_2.5-4_iphoneos-arm.deb
+Size: 1832
+MD5sum: 8eaed7a28d5cfc0fab273eada38465ce
+Description: Awesome script that pulls daily text from http://wol.jw.org/en/ each day at 5:30 AM and saves it.  The text can be viewed at any time running by "dailytext -alert" in terminal or if you add "dailytext -alert" as an event in activator.
+Name: Daily Text Script
+Author: carlyd95 & moshed <dcarltondunlap@me.com>
+Depiction: http://carlyd95.github.io/repo/depics/dailytext.html
 
 Package: com.moshed.lyrics
 Version: 3.0.1
