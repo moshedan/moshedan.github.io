@@ -2,7 +2,7 @@ Origin: Moshed
 Label: Moshed
 Suite: stable
 Version: 2.0
-Codename: Moshed's Cydia repo
-Architectures: iphoneos-arm iphoneos-arm64
+Codename: Moshed
+Architectures: iphoneos-arm
 Components: main
 Description: Moshed's personal repo
