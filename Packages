@@ -36,5 +36,6 @@ Filename: ./debs/com.moshed.lyrics_3.0.1.deb
 Size: 2454
 MD5sum: 452e5bb303c5e353f1dea82a73ffe795
 Description: Fetches lyrics and displays them in the Notification Center
+Name: lyrics
 Author: moshed <moshedancykier@gmail.com>
 Depiction:
