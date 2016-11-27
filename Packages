@@ -18,7 +18,7 @@ Section: App Addons (OpenNotifier)
 Maintainer: moshed <moshedancykier@gmail.com>
 Depends: com.n00neimp0rtant.opennotifier
 Architecture: iphoneos-arm
-Filename: .//debs/com.moshed.onips_2.0.0.deb
+Filename: ./debs/com.moshed.onips_2.0.0.deb
 Size: 5450568
 MD5sum: 637a974c94fb87c638a978cf6406a433
 Description: OpenNotifier Flat glyphs icon pack (simple)
@@ -32,7 +32,7 @@ Section: Addons
 Maintainer: moshed <moshedancykier@gmail.com>
 Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
 Architecture: iphoneos-arm
-Filename: .//debs/com.moshed.lyrics_3.0.1.deb
+Filename: ./debs/com.moshed.lyrics_3.0.1.deb
 Size: 2454
 MD5sum: 452e5bb303c5e353f1dea82a73ffe795
 Description: Fetches lyrics and displays them in the Notification Center
