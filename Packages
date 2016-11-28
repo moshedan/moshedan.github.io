@@ -20,8 +20,8 @@ Maintainer: moshed <moshedancykier@gmail.com>
 Depends: com.n00neimp0rtant.opennotifier
 Architecture: iphoneos-arm
 Filename: .//debs/com.moshed.onips_2.0.0.deb
-Size: 2354766
-MD5sum: 80635eebd14cc2269e44e602a0da78f0
+Size: 5450552
+MD5sum: 897ea97d0d74ecced14d0fadf63a0562
 Description: OpenNotifier Flat glyphs icon pack (simple)
 Name: OpenNotifier Flat Icon Pack (Simple)
 Author: moshed <moshedancykier@gmail.com>
