@@ -14,17 +14,19 @@ Depiction: http://carlyd95.github.io/repo/depics/dailytext.html
 
 Package: com.moshed.onips
 Version: 2.0.0
+Priority: standard
 Section: App Addons (OpenNotifier)
 Maintainer: moshed <moshedancykier@gmail.com>
 Depends: com.n00neimp0rtant.opennotifier
 Architecture: iphoneos-arm
-Filename: .//debs/com.moshed.onips_2.0.0.deb
+Filename: .//debs/com.moshed.onips_2.0.0
 Size: 5450568
 MD5sum: 637a974c94fb87c638a978cf6406a433
 Description: OpenNotifier Flat glyphs icon pack (simple)
 Name: OpenNotifier Flat Icon Pack (Simple)
 Author: moshed <moshedancykier@gmail.com>
-Depiction:
+Homepage:
+Depiction:  
 
 Package: com.moshed.lyrics
 Version: 3.0.1
