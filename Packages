@@ -58,17 +58,3 @@ Description: search for files within Debian packages (command-line interface)
 Name: apt-file
 Author: Sebastien J. Gross <seb@debian.org>
 Homepage: https://packages.qa.debian.org/a/apt-file.html
-
-Package: com.moshed.lyrics
-Version: 3.0.2
-Section: Addons
-Maintainer: moshed <moshedancykier@gmail.com>
-Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
-Architecture: iphoneos-arm
-Filename: .//debs/com.moshed.lyrics_3.0.2.deb
-Size: 2436
-MD5sum: 76666525037fde28ccafc0cff08cfd5f
-Description: Fetches lyrics and displays them in the Notification Center
-Name: lyrics
-Author: moshed <moshedancykier@gmail.com>
-Depiction:
