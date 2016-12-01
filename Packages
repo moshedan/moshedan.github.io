@@ -1,0 +1,32 @@
+Package: com.moshed.lyrics
+Version: 3.0.1
+Section: Addons
+Maintainer: 
+Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
+Conflicts: com.moshed.azlyrics
+Architecture: iphoneos-arm
+Filename: .///debs/com.moshed.lyrics_3.0.1.deb
+Size: 2430
+MD5sum: 97f083bda0bef6dc9c165cde55563214
+Description: Fetches lyrics and displays them in the Notification Center
+Name: lyrics
+Author: moshed <moshedancykier@gmail.com>
+Homepage: 
+Depiction: 
+
+Package: com.moshed.onips
+Version: 2.0.0
+Section: App Addons (OpenNotifier)
+Maintainer: moshed <moshedancykier@gmail.com>
+Depends: com.n00neimp0rtant.opennotifier
+Conflicts: com.md.on7, com.modmyi.opennotifierios7iconpack, com.moshed.onfics
+Architecture: iphoneos-arm
+Filename: .///debs/com.moshed.onips_2.0.0.deb
+Size: 5450552
+MD5sum: 897ea97d0d74ecced14d0fadf63a0562
+Description: OpenNotifier Flat glyphs icon pack (simple)
+Name: OpenNotifier Flat Icon Pack (Simple)
+Author: moshed <moshedancykier@gmail.com>
+Homepage: 
+Depiction: 
+
